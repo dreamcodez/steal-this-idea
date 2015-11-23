@@ -6,3 +6,10 @@ SO PLEASE -- someone steal this idea, raise money, and do it. it will happen no 
 Revenue generation: you can be the first reference implementation + first implementation of an on-demand market. (think NYSE equivalent).. an oversight body (equivalent to SEC) needs to be created within the government thru lobbying... for compensation for research and development, your organization will have the monopoly on the first market and receive a commission (2-3%) for each trip which is matched. This monopoly on the market and reference implementation will both be limited to no greater than 5 years (maybe even 3 years would be approprate). After that competition will open up and be able to create softwares which are licensed and work with your market and/or completely other markets with their own protocols and reference implementations / revenue models.
 
 This model of monopoly-for-research (for limited times) is something I believe big business and government would be friendly too (it is semantically equivalent to what pharmaceutical companies do when they research a new drug -- they get a monopoly on the compound and can sublicense for fees for a limited amount of years)
+
+maybe even uber could use this idea...
+stop being so monopoly.. thats so 1900’s.. they don’t REALLY want to be a monopoly do they? that entails future regulatory hammers will almost be guaranteed for them.
+
+instead they can be the producer of the best market and app for on-demand work.. on a fair playing ground with other providers.. then they can also put their fingers in everyones pie (all their competitors)… when they fulfill rides for driver networks which have sparse capacity.
+
+conversely they can sell rides to uber customers which otherwise wouldnt have been fulfilled (when uber has no drivers in an area, but lyft or sidecar does, for example)
